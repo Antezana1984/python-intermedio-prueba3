@@ -1,6 +1,9 @@
 
-#  Para el caso del triángulo debe tener un método para determinar
-#  si es equilatero, isósceles o escaleno.
+'''
+                  Matías Moreno Barrios
+┌( ͝° ͜ʖ͡°)=ε/̵͇̿̿/’̿’̿ ̿   Cristian Antezana Pizarro
+'''
+
 import math
 
 class Cuadrado:
